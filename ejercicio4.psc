@@ -1,7 +1,9 @@
 Algoritmo ejercicio4
 	definir num1, num2, resultadoCuenta como real
+	//Preguntamos al usuario por los datos
 	Escribir "Introduce dos numeros por teclado : "
 	Leer num1, num2
+	//Realiamos los calculos y mostramos por pantalla 
 	resultadoCuenta<-num1+num2
 	Escribir "La suma es: ", resultadoCuenta
 	resultadoCuenta<-num1-num2
